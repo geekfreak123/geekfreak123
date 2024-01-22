@@ -1,4 +1,4 @@
-## 👷‍♂️ Ex-Civil Engineer turned Full Stack Web Developer
+## 👨‍💻 Full Stack Web Developer
 
 Welcome to my GitHub! I'm a seasoned Full Stack Web Developer with a unique background in Civil Engineering. Leveraging my engineering expertise, I've transitioned seamlessly into the world of web development, bringing a distinctive blend of adaptability, technical acumen, and design finesse to every project.
 
