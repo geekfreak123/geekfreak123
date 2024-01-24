@@ -1,6 +1,6 @@
 ## 👨‍💻 Full Stack Web Developer
 
-Welcome to my GitHub! I'm a seasoned Full Stack Web Developer with a unique background in Civil Engineering. Leveraging my engineering expertise, I've transitioned seamlessly into the world of web development, bringing a distinctive blend of adaptability, technical acumen, and design finesse to every project.
+Welcome to my GitHub! I'm an aspiring full stack web developer. I bring a distinctive blend of adaptability, technical acumen, and design finesse to every project.
 
 ### 💻 Tech Stack
 Proficient in:
