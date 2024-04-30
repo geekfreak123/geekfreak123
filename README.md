@@ -1,4 +1,4 @@
-## 👨‍💻 Full Stack Web Developer
+## 👨‍💻 FrontEnd Web Developer
 
 Welcome to my GitHub! I'm an aspiring full stack web developer. I bring a distinctive blend of adaptability, technical acumen, and design finesse to every project.
 
